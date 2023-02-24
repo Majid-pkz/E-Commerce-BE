@@ -26,7 +26,7 @@ Product.init(
       allowNull: false,
       validate: {
         isDecimal: true,
-        msg: 'Please enter a valid number'
+      
       }
      
 
